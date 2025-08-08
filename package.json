@@ -1,0 +1,14 @@
+{
+  "name": "duckquery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node read_parquet_duckdb.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "duckdb": "^1.3.2"
+  }
+}
